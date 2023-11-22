@@ -2,8 +2,8 @@ import "./style.css";
 
 const NavBar = () => {
   return (
-    <div class="nav">
-      <a class="active" href="#home">
+    <div className="nav">
+      <a className="active" href="#home">
         Home
       </a>
       <a href="#news">News</a>
